@@ -19,7 +19,7 @@ This project is a simple **Retrieval-Augmented Generation (RAG)** chatbot built 
    Use Google Colab’s `files.upload()` to upload any PDF file.
 
 2. **Text Extraction**  
-   The entire PDF is read and converted into raw text using `pypdf`.
+   The entire PDF is read and converted into raw text using `pypdf`.  
 
 3. **Chunking**   
    The text is split into manageable chunks (default 500 characters) to enable effective retrieval.
