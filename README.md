@@ -16,7 +16,7 @@ This project is a simple **Retrieval-Augmented Generation (RAG)** chatbot built 
 ## 🧑‍💻 How it Works
 
 1. **Upload PDF**  
-   Use Google Colab’s `files.upload()` to upload any PDF file.
+   Use Google Colab’s `files.upload()` to upload any PDF file.  
 
 2. **Text Extraction**  
    The entire PDF is read and converted into raw text using `pypdf`.  
