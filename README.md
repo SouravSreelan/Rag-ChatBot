@@ -32,7 +32,7 @@ This project is a simple **Retrieval-Augmented Generation (RAG)** chatbot built 
 
 6. **Retrieval + Generation**  
    - When you ask a question, the bot finds the top 3 most relevant chunks.
-   - It then passes these chunks as context to Gemini’s `gemini-1.5-flash` to generate an accurate answer.
+   - It then passes these chunks as context to Gemini’s `gemini-1.5-flash` to generate an accurate answer.   
 
 ---
 
