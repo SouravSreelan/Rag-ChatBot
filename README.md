@@ -4,7 +4,7 @@ This project is a simple **Retrieval-Augmented Generation (RAG)** chatbot built 
 
 ---
 
-## ✨ Features
+## ✨ Features  
 
 - 📄 **PDF Upload**: Easily upload a PDF directly in Colab.
 - 🧠 **Embedding with Gemini**: Each chunk of the document is vectorized using Google’s `embedding-001` model. 
