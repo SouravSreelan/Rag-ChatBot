@@ -3,7 +3,7 @@
 This project is a simple **Retrieval-Augmented Generation (RAG)** chatbot built in **Google Colab** that lets you upload a PDF file, extract its content, and ask questions about it. It uses Google's **Gemini** models for embeddings and content generation. 
 
 ---
-
+  
 ## ✨ Features  
 
 - 📄 **PDF Upload**: Easily upload a PDF directly in Colab.
